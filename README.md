@@ -25,4 +25,4 @@ You'll gain in-depth knowledge of Amazon VPC, Amazon EC2 networking, AWS VPN, AW
 - AWS Global Accelerator
 Amazon CloudWatch and AWS CloudTrail
 
-Learn more and [enroll in this course](https://digitalcloud.training/courses/aws-networking-masterclass-amazon-vpc-and-hybrid-cloud/) now to gain in-depth knowledge of networking on AWS
+Learn more and [enroll in this course](https://learn.digitalcloud.training/course/aws-networking-masterclass-and-amazon-vpc-and-hybrid-cloud/) now to gain in-depth knowledge of networking on AWS
